@@ -1,0 +1,8 @@
+elaboracao_projetos_web/
+ ├── index.html      ← página principal (obrigatório esse nome!)
+ ├── style.css       ← estilos do site
+ ├── script.js       ← funções em JavaScript
+ └── imagens/        ← pasta para imagens
+       ├── fundo1.png
+       ├── fundo2.jpg
+       └── logo.png
